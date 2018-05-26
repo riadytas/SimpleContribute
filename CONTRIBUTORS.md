@@ -6,3 +6,8 @@
  - Place: Medan, Sumatera Utara, Indonesia
  - Bio: Learning GIT at KITM10
  - GitHub: [Roy](https://github.com/roy)
+
+#### Name: [Wilson](https://github.com/Riady-Santoso)
+ - Place: Medan, Sumatera Utara, Indonesia
+ - Bio: Learning GIT
+ - GitHub: [RiadySantoso](https://github.com/Riady-Santoso)
